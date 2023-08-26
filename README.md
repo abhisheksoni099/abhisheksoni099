@@ -22,7 +22,7 @@ I'm a senior software engineer working at Forgeahead, Pune. I write clean code. 
 
 
 ## 📊 Industry Projects
-* Med Mutual - A webapp for facilitate medical insurance
+* Med Mutual - A webapp to facilitate medical insurance
 	* Spring Boot
  	* Angular
 
