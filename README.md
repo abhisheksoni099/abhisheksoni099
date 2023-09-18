@@ -1,13 +1,6 @@
-# Abhishek Soni
+## Abhishek Soni
 
-## 👨🏻‍💻 About Me
-```mermaid
-mindmap
-    id)❤️ to Engineer(
-```
-* Providing my expertise in solving complex engineering problems.
-
-## 🍳 Skill Distribution
+### 🍳 Skill Distribution
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFD5B0', 'pie2': '#FFFFC5', 'pie3': '#C2FFC2', 'pie4': '#FFDBDB', 'pie5': '#EDEDFF', 'pie6': '#DBFFFF', 'pie7': '#FDF3E2'}}}%%
 pie
@@ -17,14 +10,7 @@ pie
     "Databases" : 10
 ```
 
-## 💼 Work Experience
-|#|Company|Place|Years|Duration|
-|-|-|-|-|-|
-|1|Forgeahead|Pune|Jun'19 - Present|4.5 Yrs+|
-|2|"Start Up Idea"|Pune|Jan'18 - Jun'19|1 Yr|
-|3|Unisys|Bangalore|Jun'14 - Jan'18|3.5 Yrs|
-
-## 📊 Professional Projects
+### 📊 Professional Work
 * Med Mutual - A webapp to facilitate medical insurance
 	* Spring Boot
  	* Angular
@@ -42,16 +28,25 @@ pie
 	* HTML
 	* Linux
 
-## 👨🏼‍🎨 Hobby Projects
-* JustThese
-* TimeTable
-* Command Line Todo
-* IBM MQ Count Utility
+### 👨🏼‍🎨 Hobby Projects
+* JustThese - A webapp for habit building
+* TicTacToe - A cli game
+* OnTime - A timetable webapp written using Django
+* CmdTodo - A cli todo app
+* MqCount - A cli utility to count active connections
 
-## 🎩 Achivements
+### 🎩 Achivements
+* LLD Design Skills - 2nd Place - 2023
 * Most Innovative Project - 2021
-* Spot Award 2019 - Fogeahead
-* Excellence Award 2017 - Unisys
+* Spot Award - 2019
+* Excellence Award - 2017
 
-## 📖 Education
+### 📖 Education
 * BE Computer Science, MITCOE, Pune
+
+---
+
+```mermaid
+mindmap
+    id(For the ❤️ of Engineering)
+```
