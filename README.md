@@ -1,14 +1,6 @@
 ## Abhishek Soni
 
-### 🍳 Skill Distribution
-```mermaid
-%%{init: {'theme': 'base', 'themeVariables': { 'pie1': '#FFD5B0', 'pie2': '#FFFFC5', 'pie3': '#C2FFC2', 'pie4': '#FFDBDB', 'pie5': '#EDEDFF', 'pie6': '#DBFFFF', 'pie7': '#FDF3E2'}}}%%
-pie
-    "Problem Solving/Algorithm" : 40
-    "Object Design" : 30
-    "System Design" : 20
-    "Databases" : 10
-```
+![Header](https://github.com/abhisheksoni099/abhisheksoni099/assets/42487662/131b2358-3fe2-415e-8fb7-4205a89fbce1)
 
 ### 📊 Professional Work
 * Med Mutual - A webapp to facilitate medical insurance
